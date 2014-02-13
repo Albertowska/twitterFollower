@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TwitterOAuth
 ------------
 
@@ -113,3 +114,9 @@ Contributors
 ============
 
 * [Abraham Williams](https://twitter.com/abraham) - Main developer, current maintainer.
+=======
+twitterFollower
+===============
+
+Web aplication to follow a lot of users easily. Unfortunately twitter bans you if you use it.
+>>>>>>> 9fb559f243725d373f722241aaa8d9d9ea910a0a
